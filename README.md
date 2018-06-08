@@ -1,6 +1,6 @@
 # reduce.jsx #
 
-### Photoshop plugin script.###
+### Photoshop plugin script.
 
 ### Features ###
 * Sequential file renaming
